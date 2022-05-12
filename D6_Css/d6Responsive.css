@@ -24,12 +24,15 @@
         font-size:17.5px;
         margin-top:10%;
         margin-bottom:3%;
-        height:18vh;
+        height:12vh;
     }
     .notaMusical{
         width:15vw;
     }
     .mudancaPlano{
         margin-left:3%;
+    }
+    .footer{
+        font-size:8pt;
     }
     }
