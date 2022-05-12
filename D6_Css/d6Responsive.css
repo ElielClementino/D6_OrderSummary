@@ -1,0 +1,35 @@
+@media screen and (max-width:500px){
+    html,body{
+    background-image: url(mobile.svg);
+    background-repeat:no-repeat;
+    background-size:100%;
+    }
+    .container{
+    width:90%;
+    margin:26% auto;
+    height:180vw;
+    
+    }
+    .titulo{
+        font-size:26px;
+    }
+    .texto{
+        font-size:18px;
+        line-height:28px;
+    }
+    .textoExplicativo{
+       color: #766e6e;
+    }
+    .planoAnual{
+        font-size:17.5px;
+        margin-top:10%;
+        margin-bottom:3%;
+        height:18vh;
+    }
+    .notaMusical{
+        width:15vw;
+    }
+    .mudancaPlano{
+        margin-left:3%;
+    }
+    }
